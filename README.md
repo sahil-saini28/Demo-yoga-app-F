@@ -29,8 +29,6 @@ To get started with the frontend development server, follow these steps:
 - Tailwind CSS
 - React Router DOM
 - Vite
-  
-  
 
 ## Project Structure
 
