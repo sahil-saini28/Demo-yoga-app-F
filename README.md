@@ -7,18 +7,20 @@ This repository contains the frontend code for the Yoga Booking App. The fronten
 To get started with the frontend development server, follow these steps:
 
 1. **Clone the repository:**
-
+   
    `git clone https://github.com/sahil-saini28/Demo-yoga-app.git`
 
 2. **Install dependencies:**
-
+   
    'npm install`
 
 3. **Start the development server:**
-
+   
    `npm run dev`
-
+   
    The development server will start running on port `5173` by default. You can modify the port in the `vite.config.js` file if needed.
+   
+   ![](/home/sahil/snap/marktext/9/.config/marktext/images/2024-02-22-17-10-10-Screenshot%20from%202024-02-22%2017-09-38.png)
 
 ## Technologies Used
 
@@ -27,6 +29,8 @@ To get started with the frontend development server, follow these steps:
 - Tailwind CSS
 - React Router DOM
 - Vite
+  
+  
 
 ## Project Structure
 
