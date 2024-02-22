@@ -20,7 +20,8 @@ To get started with the frontend development server, follow these steps:
    
    The development server will start running on port `5173` by default. You can modify the port in the `vite.config.js` file if needed.
    
-   ![](/home/sahil/snap/marktext/9/.config/marktext/images/2024-02-22-17-10-10-Screenshot%20from%202024-02-22%2017-09-38.png)
+   
+
 
 ## Technologies Used
 
